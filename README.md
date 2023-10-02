@@ -34,7 +34,6 @@
 		<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 		<img src="https://img.shields.io/badge/MyBatis?style=flat&logo=&logoColor=white" />
 		<img src="https://img.shields.io/badge/swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
-		<img src="https://img.shields.io/badge/Tensorflor-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 	<br>
 </div>
 <br>
