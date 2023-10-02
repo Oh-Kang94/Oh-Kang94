@@ -32,7 +32,7 @@
 	<br>
 	<p>📚 Libraries 📚<p>
 		<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-		<img src="https://img.shields.io/badge/MyBatis?style=flat&logo=&logoColor=white" />
+		<img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=twitter&logoColor=white" />
 		<img src="https://img.shields.io/badge/swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
 	<br>
 </div>
