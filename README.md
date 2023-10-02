@@ -62,7 +62,7 @@
 </div>
 <br>
 <div align=center>
-	<p>📱 Contact & Portfolio 📱</p>
+	<h3>📱 Contact & Portfolio 📱</h3>
 </div>
 <div align=center>
 	<a href="mailto:okh19941994@naver.com">
