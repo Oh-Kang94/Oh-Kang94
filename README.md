@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Oh-Kang's%20Github&fontSize=50" />
 </div>
 <div align=center>
-	<h3>🧰 Tech Stack 🧰</h3>
+	<h3>🧰 Once I used this.. 🧰</h3>
 </div>
 <div align="center">
 	<p>💬 Languages & OS💬</p>
