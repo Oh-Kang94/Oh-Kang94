@@ -23,17 +23,17 @@
 	<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" />
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
 	<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=FLask&logoColor=white" />
-	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
 	<br>
 	<p>📚 DB 📚<p>
-	<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
-	<img src="https://img.shields.io/badge/Sqlite-003B57?style=flat&logo=sqlite&logoColor=white" />
-	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white" />
+	<img src="https://img.shields.io/badge/Sqlite-003B57?style=flat&logo=Sqlite&logoColor=white" />
+	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
 	<br>
 	<p>📚 Libraries 📚<p>
 		<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 		<img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=twitter&logoColor=white" />
-		<img src="https://img.shields.io/badge/swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
 	<br>
 </div>
 <br>
@@ -45,19 +45,19 @@
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
-	<img src="https://img.shields.io/badge/anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white"/>
 	<br>
 	<p> 🌩 Deploy & Cloud 🌩<p>
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
-	<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=Docker&logoColor=white" />
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<p> 🏢 Cowork Tools 🏢<p>
 	  	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>
-		<img src="https://img.shields.io/badge/miro-050038?style=flat-square&logo=Miro&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=Miro&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-		<img src="https://img.shields.io/badge/swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
 	</p>
 </div>
 <br>
