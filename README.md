@@ -28,12 +28,14 @@
 	<p>📚 DB 📚<p>
 		<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white" />
 		<img src="https://img.shields.io/badge/Sqlite-003B57?style=flat&logo=Sqlite&logoColor=white" />
-		<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
+		<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
 	<br>
 	<p>📚 Libraries 📚<p>
 		<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 		<img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=twitter&logoColor=white" />
 		<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
+		<img src="https://img.shields.io/badge/socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 	<br>
 </div>
 <br>
